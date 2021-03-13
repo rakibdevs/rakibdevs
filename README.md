@@ -3,7 +3,7 @@ I am [Rakib](https://rakibul.dev), one of the core team member of [ERP](http://e
 
 In my free time, I like to develop open source projects. Some of them are -
 
-- [Number to Bangla](https://github.com/RakibDevs/number-to-bangla) - Laravel package to convert any English number to Bangla number or text. also available in [@WordPress](https://wordpress.org/plugins/number-to-bangla/)
+- [Number to Bangla](https://github.com/RakibDevs/number-to-bangla) - Laravel package to convert any English number to Bangla. Also available in [@WordPress](https://wordpress.org/plugins/number-to-bangla/)
 - [Open Weather Map](https://github.com/RakibDevs/openweather-laravel-api) - Laravel package for connecting Open Weather Map API.
 
 
