@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am [Rakib](https://rakibul.dev), one of the core team member of [ERP](http://erp.aql-bd.com) of MBM Group which using Laravel, Vue.js and MysQl.
+I am [Rakib](https://rakibul.dev), one of the core team member of [ERP](http://erp.aql-bd.com) for MBM Group which using Laravel, Vue.js and MysQl.
 
 In my free time, I like to develop open source projects. Some of them are -
 
