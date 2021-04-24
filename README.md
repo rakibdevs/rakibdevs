@@ -9,7 +9,7 @@ I am [Rakib](https://rakibul.dev), currently working at MBM Group, developping [
 🌱 Also working on a new package [Laravel Query Extra](https://github.com/RakibDevs/laravel-query-extra), which handle complex queries in Laravel.
 
 
-[![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibdevs)](https://github.com/anuraghazra/github-readme-stats)
+[![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibdevs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **RakibDevs/rakibdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
