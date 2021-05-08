@@ -10,8 +10,7 @@ I am [Rakib](https://rakibul.dev), currently working at MBM Group, developping [
 
 
 [![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibdevs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibdevs&show_icons=true&locale=en&layout=compact" alt="rakibdevs" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibdevs&" alt="rakibdevs" /></p>
+
 <!--
 **RakibDevs/rakibdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
