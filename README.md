@@ -7,7 +7,7 @@ I am [Rakib](https://rakibul.dev), currently working at MBM Group, developping [
 - [Open Weather Map](https://github.com/RakibDevs/openweather-laravel-api) - Laravel package for connecting Open Weather Map API.
 
 🌱 Also working on 
-- [IMGEXIF]((https://github.com/RakibDevs/vue-image-meta)), A Vue.js app to extract image EXIF from image or url, which connects with Laravel [Image Extractor API](https://github.com/RakibDevs/image-meta-extractor-api).
+- [IMGEXIF](https://github.com/RakibDevs/vue-image-meta), A Vue.js app to extract image EXIF from image or url, which connects with Laravel [Image Extractor API](https://github.com/RakibDevs/image-meta-extractor-api).
 
 
 [![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibdevs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
