@@ -9,8 +9,11 @@ I am [Rakib](https://rakibul.dev), currently working at MBM Group, developping [
 🌱 Also working on 
 - [IMGEXIF](https://github.com/RakibDevs/vue-image-meta), A Vue.js app to extract image EXIF from image or url, which connects with Laravel [Image Extractor API](https://github.com/RakibDevs/image-meta-extractor-api).
 
-
-[![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibdevs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+### My GitHub Stats
+<div>
+<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibdevs&" alt="rakibdevs" />
+<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=rakibdevs&show_icons=true&locale=en" alt="rakibdevs" />
+</div>
 
 <!--
 **RakibDevs/rakibdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
