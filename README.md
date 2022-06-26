@@ -3,8 +3,9 @@ I am [Rakib](https://rakibul.dev), currently working at [Portonics Limited](http
 
 🌱 In my free time, I like to develop open source projects. Some of them are -
 
-- [Number to Bangla](https://github.com/RakibDevs/number-to-bangla) - Laravel package to convert any English number to Bangla. Also available in [@WordPress](https://wordpress.org/plugins/number-to-bangla/)
 - [Open Weather Map](https://github.com/RakibDevs/openweather-laravel-api) - Laravel package for connecting Open Weather Map API.
+- [MRZ Parser](https://github.com/RakibDevs/mrz-parser) - A PHP package for MRZ (Machine Readable Zones) code parser for Passport, Visa & Travel Document (TD1 & TD2).
+- [Number to Bangla](https://github.com/RakibDevs/number-to-bangla) - Laravel package to convert any English number to Bangla. Also available in [@WordPress](https://wordpress.org/plugins/number-to-bangla/)
 
 
 ### My GitHub Stats
