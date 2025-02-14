@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am [Rakib](https://rakibul.dev), currently working at [Portonics Limited](https://portonics.com/) as Software Engineer (Backend).
+I am [Rakib](https://rakibul.dev), currently working at [Portonics Limited](https://portonics.com/) as Sr. Software Engineer.
 
 🌱 In my free time, I like to develop open source projects. Some of them are -
 
